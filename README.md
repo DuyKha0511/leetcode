@@ -10,3 +10,4 @@ References: [Leetcode](https://leetcode.com/)
 [496. Next Greater Element I](./leetcode/496.%20Next%20Greater%20Element%20I.ipynb)<br>
 [500. Keyboard Row](./leetcode/500.%20Keyboard%20Row.ipynb)<br>
 [504. Base 7](./leetcode/504.%20Base%207.ipynb)<br>
+[506. Relative Ranks](./leetcode/506.%20Relative%20Ranks.ipynb)<br>
