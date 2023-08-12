@@ -11,3 +11,4 @@ References: [Leetcode](https://leetcode.com/)
 [500. Keyboard Row](./leetcode/500.%20Keyboard%20Row.ipynb)<br>
 [504. Base 7](./leetcode/504.%20Base%207.ipynb)<br>
 [506. Relative Ranks](./leetcode/506.%20Relative%20Ranks.ipynb)<br>
+[507. Perfect Number](./leetcode/507.%20Perfect%20Number.ipynb)<br>
