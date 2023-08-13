@@ -18,3 +18,4 @@ References: [Leetcode](https://leetcode.com/)
 [557. Reverse Words in a String III](./leetcode/557.%20Reverse%20Words%20in%20a%20String%20III.ipynb)<br>
 [561. Array Partition](./leetcode/561.%20Array%20Partition.ipynb)<br>
 [566. Reshape the Matrix](./leetcode/566.%20Reshape%20the%20Matrix.ipynb)<br>
+[575. Distribute Candies](./leetcode/575.%20Distribute%20Candies.ipynb)<br>
