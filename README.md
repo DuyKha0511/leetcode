@@ -16,3 +16,4 @@ References: [Leetcode](https://leetcode.com/)
 [541. Reverse String II](./leetcode/541.%20Reverse%20String%20II.ipynb)<br>
 [551. Student Attendance Record I](./leetcode/551.%20Student%20Attendance%20Record%20I.ipynb)<br>
 [557. Reverse Words in a String III](./leetcode/557.%20Reverse%20Words%20in%20a%20String%20III.ipynb)<br>
+[561. Array Partition](./leetcode/561.%20Array%20Partition.ipynb)<br>
