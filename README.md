@@ -14,3 +14,4 @@ References: [Leetcode](https://leetcode.com/)
 [507. Perfect Number](./leetcode/507.%20Perfect%20Number.ipynb)<br>
 [520. Detect Capital](./leetcode/520.%20Detect%20Capital.ipynb)<br>
 [541. Reverse String II](./leetcode/541.%20Reverse%20String%20II.ipynb)<br>
+[551. Student Attendance Record I](./leetcode/551.%20Student%20Attendance%20Record%20I.ipynb)<br>
