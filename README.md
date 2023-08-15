@@ -24,3 +24,4 @@ References: [Leetcode](https://leetcode.com/)
 [599. Minimum Index Sum of Two Lists](./leetcode/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.ipynb)<br>
 [605. Can Place Flowers](./leetcode/605.%20Can%20Place%20Flowers.ipynb)<br>
 [628. Maximum Product of Three Numbers](./leetcode/628.%20Maximum%20Product%20of%20Three%20Numbers.ipynb)<br>
+[643. Maximum Average Subarray I](./leetcode/643.%20Maximum%20Average%20Subarray%20I.ipynb)<br>
