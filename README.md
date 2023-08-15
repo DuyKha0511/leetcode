@@ -20,3 +20,4 @@ References: [Leetcode](https://leetcode.com/)
 [566. Reshape the Matrix](./leetcode/566.%20Reshape%20the%20Matrix.ipynb)<br>
 [575. Distribute Candies](./leetcode/575.%20Distribute%20Candies.ipynb)<br>
 [594. Longest Harmonious Subsequence](./leetcode/594.%20Longest%20Harmonious%20Subsequence.ipynb)<br>
+[598. Range Addition II](./leetcode/598.%20Range%20Addition%20II.ipynb)<br>
