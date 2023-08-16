@@ -28,3 +28,4 @@ References: [Leetcode](https://leetcode.com/)
 [645. Set Mismatch](./leetcode/645.%20Set%20Mismatch.ipynb)<br>
 [657. Robot Return to Origin](./leetcode/657.%20Robot%20Return%20to%20Origin.ipynb)<br>
 [661. Image Smoother](./leetcode/661.%20Image%20Smoother.ipynb)<br>
+[674. Longest Continuous Increasing Subsequence](./leetcode/674.%20Longest%20Continuous%20Increasing%20Subsequence.ipynb)<br>
