@@ -31,3 +31,4 @@ References: [Leetcode](https://leetcode.com/)
 [674. Longest Continuous Increasing Subsequence](./leetcode/674.%20Longest%20Continuous%20Increasing%20Subsequence.ipynb)<br>
 [680. Valid Palindrome II](./leetcode/680.%20Valid%20Palindrome%20II.ipynb)<br>
 [682. Baseball Game](./leetcode/682.%20Baseball%20Game.ipynb)<br>
+[693. Binary Number with Alternating Bits](./leetcode/693.%20Binary%20Number%20with%20Alternating%20Bits.ipynb)<br>
