@@ -33,3 +33,4 @@ References: [Leetcode](https://leetcode.com/)
 [682. Baseball Game](./leetcode/682.%20Baseball%20Game.ipynb)<br>
 [693. Binary Number with Alternating Bits](./leetcode/693.%20Binary%20Number%20with%20Alternating%20Bits.ipynb)<br>
 [696. Count Binary Substrings](./leetcode/696.%20Count%20Binary%20Substrings.ipynb)<br>
+[697. Degree of an Array](./leetcode/697.%20Degree%20of%20an%20Array.ipynb)<br>
