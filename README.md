@@ -36,3 +36,4 @@ References: [Leetcode](https://leetcode.com/)
 [697. Degree of an Array](./leetcode/697.%20Degree%20of%20an%20Array.ipynb)<br>
 [717. 1-bit and 2-bit Characters](./leetcode/717.%201-bit%20and%202-bit%20Characters.ipynb)<br>
 [724. Find Pivot Index](./leetcode/724.%20Find%20Pivot%20Index.ipynb)<br>
+[728. Self Dividing Numbers](./leetcode/728.%20Self%20Dividing%20Numbers.ipynb)<br>
