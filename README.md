@@ -37,3 +37,4 @@ References: [Leetcode](https://leetcode.com/)
 [717. 1-bit and 2-bit Characters](./leetcode/717.%201-bit%20and%202-bit%20Characters.ipynb)<br>
 [724. Find Pivot Index](./leetcode/724.%20Find%20Pivot%20Index.ipynb)<br>
 [728. Self Dividing Numbers](./leetcode/728.%20Self%20Dividing%20Numbers.ipynb)<br>
+[744. Find Smallest Letter Greater Than Target](./leetcode/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.ipynb)<br>
