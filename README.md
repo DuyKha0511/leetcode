@@ -35,3 +35,4 @@ References: [Leetcode](https://leetcode.com/)
 [696. Count Binary Substrings](./leetcode/696.%20Count%20Binary%20Substrings.ipynb)<br>
 [697. Degree of an Array](./leetcode/697.%20Degree%20of%20an%20Array.ipynb)<br>
 [717. 1-bit and 2-bit Characters](./leetcode/717.%201-bit%20and%202-bit%20Characters.ipynb)<br>
+[724. Find Pivot Index](./leetcode/724.%20Find%20Pivot%20Index.ipynb)<br>
