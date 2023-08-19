@@ -45,3 +45,4 @@ References: [Leetcode](https://leetcode.com/)
 [766. Toeplitz Matrix](./leetcode/766.%20Toeplitz%20Matrix.ipynb)<br>
 [771. Jewels and Stones](./leetcode/771.%20Jewels%20and%20Stones.ipynb)<br>
 [796. Rotate String](./leetcode/796.%20Rotate%20String.ipynb)<br>
+[804. Unique Morse Code Words](./leetcode/804.%20Unique%20Morse%20Code%20Words.ipynb)<br>
