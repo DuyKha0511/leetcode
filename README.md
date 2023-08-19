@@ -42,3 +42,4 @@ References: [Leetcode](https://leetcode.com/)
 [747. Largest Number At Least Twice of Others](./leetcode/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.ipynb)<br>
 [748. Shortest Completing Word](./leetcode/748.%20Shortest%20Completing%20Word.ipynb)<br>
 [762. Prime Number of Set Bits in Binary Representation](./leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.ipynb)<br>
+[766. Toeplitz Matrix](./leetcode/766.%20Toeplitz%20Matrix.ipynb)<br>
