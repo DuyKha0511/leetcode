@@ -41,3 +41,4 @@ References: [Leetcode](https://leetcode.com/)
 [746. Min Cost Climbing Stairs](./leetcode/746.%20Min%20Cost%20Climbing%20Stairs.ipynb)<br>
 [747. Largest Number At Least Twice of Others](./leetcode/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.ipynb)<br>
 [748. Shortest Completing Word](./leetcode/748.%20Shortest%20Completing%20Word.ipynb)<br>
+[762. Prime Number of Set Bits in Binary Representation](./leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.ipynb)<br>
