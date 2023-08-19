@@ -43,3 +43,4 @@ References: [Leetcode](https://leetcode.com/)
 [748. Shortest Completing Word](./leetcode/748.%20Shortest%20Completing%20Word.ipynb)<br>
 [762. Prime Number of Set Bits in Binary Representation](./leetcode/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.ipynb)<br>
 [766. Toeplitz Matrix](./leetcode/766.%20Toeplitz%20Matrix.ipynb)<br>
+[771. Jewels and Stones](./leetcode/771.%20Jewels%20and%20Stones.ipynb)<br>
