@@ -50,3 +50,4 @@ References: [Leetcode](https://leetcode.com/)
 [812. Largest Triangle Area](./leetcode/812.%20Largest%20Triangle%20Area.ipynb)<br>
 [819. Most Common Word](./leetcode/819.%20Most%20Common%20Word.ipynb)<br>
 [844. Backspace String Compare](./leetcode/844.%20Backspace%20String%20Compare.ipynb)<br>
+[859. Buddy Strings](./leetcode/859.%20Buddy%20Strings.ipynb)<br>
