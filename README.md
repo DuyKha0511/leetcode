@@ -47,3 +47,4 @@ References: [Leetcode](https://leetcode.com/)
 [796. Rotate String](./leetcode/796.%20Rotate%20String.ipynb)<br>
 [804. Unique Morse Code Words](./leetcode/804.%20Unique%20Morse%20Code%20Words.ipynb)<br>
 [806. Number of Lines To Write String](./leetcode/806.%20Number%20of%20Lines%20To%20Write%20String.ipynb)<br>
+[812. Largest Triangle Area](./leetcode/812.%20Largest%20Triangle%20Area.ipynb)<br>
