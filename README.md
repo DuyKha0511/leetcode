@@ -60,3 +60,4 @@ References: [Leetcode](https://leetcode.com/)
 [941. Valid Mountain Array](./leetcode/941.%20Valid%20Mountain%20Array.ipynb)<br>
 [942. DI String Match](./leetcode/942.%20DI%20String%20Match.ipynb)<br>
 [944. Delete Columns to Make Sorted](./leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted.ipynb)<br>
+[953. Verifying an Alien Dictionary](./leetcode/953.%20Verifying%20an%20Alien%20Dictionary.ipynb)<br>
