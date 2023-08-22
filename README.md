@@ -59,3 +59,4 @@ References: [Leetcode](https://leetcode.com/)
 [922. Sort Array By Parity II](./leetcode/922.%20Sort%20Array%20By%20Parity%20II.ipynb)<br>
 [941. Valid Mountain Array](./leetcode/941.%20Valid%20Mountain%20Array.ipynb)<br>
 [942. DI String Match](./leetcode/942.%20DI%20String%20Match.ipynb)<br>
+[944. Delete Columns to Make Sorted](./leetcode/944.%20Delete%20Columns%20to%20Make%20Sorted.ipynb)<br>
