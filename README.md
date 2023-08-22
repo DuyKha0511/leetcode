@@ -63,3 +63,4 @@ References: [Leetcode](https://leetcode.com/)
 [953. Verifying an Alien Dictionary](./leetcode/953.%20Verifying%20an%20Alien%20Dictionary.ipynb)<br>
 [961. N-Repeated Element in Size 2N Array](./leetcode/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.ipynb)<br>
 [976. Largest Perimeter Triangle](./leetcode/976.%20Largest%20Perimeter%20Triangle.ipynb)<br>
+[997. Find the Town Judge](./leetcode/997.%20Find%20the%20Town%20Judge.ipynb)<br>
