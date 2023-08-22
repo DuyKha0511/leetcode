@@ -58,3 +58,4 @@ References: [Leetcode](https://leetcode.com/)
 [917. Reverse Only Letters](./leetcode/917.%20Reverse%20Only%20Letters.ipynb)<br>
 [922. Sort Array By Parity II](./leetcode/922.%20Sort%20Array%20By%20Parity%20II.ipynb)<br>
 [941. Valid Mountain Array](./leetcode/941.%20Valid%20Mountain%20Array.ipynb)<br>
+[942. DI String Match](./leetcode/942.%20DI%20String%20Match.ipynb)<br>
