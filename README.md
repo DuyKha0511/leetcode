@@ -67,3 +67,4 @@ References: [Leetcode](https://leetcode.com/)
 [1002. Find Common Characters](./leetcode/1002.%20Find%20Common%20Characters.ipynb)<br>
 [1005. Maximize Sum Of Array After K Negations](./leetcode/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.ipynb)<br>
 [1009. Complement of Base 10 Integer](./leetcode/1009.%20Complement%20of%20Base%2010%20Integer.ipynb)<br>
+[1013. Partition Array Into Three Parts With Equal Sum](./leetcode/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.ipynb)<br>
