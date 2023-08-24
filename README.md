@@ -75,3 +75,4 @@ References: [Leetcode](https://leetcode.com/)
 [1046. Last Stone Weight](./leetcode/1046.%20Last%20Stone%20Weight.ipynb)<br>
 [1047. Remove All Adjacent Duplicates In String](./leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.ipynb)<br>
 [1071. Greatest Common Divisor of Strings](./leetcode/1071.%20Greatest%20Common%20Divisor%20of%20Strings.ipynb)<br>
+[1078. Occurrences After Bigram](./leetcode/1078.%20Occurrences%20After%20Bigram.ipynb)<br>
