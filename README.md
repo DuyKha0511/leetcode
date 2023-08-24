@@ -71,3 +71,4 @@ References: [Leetcode](https://leetcode.com/)
 [1018. Binary Prefix Divisible By 5](./leetcode/1018.%20Binary%20Prefix%20Divisible%20By%205.ipynb)<br>
 [1021. Remove Outermost Parentheses](./leetcode/1021.%20Remove%20Outermost%20Parentheses.ipynb)<br>
 [1030. Matrix Cells in Distance Order](./leetcode/1030.%20Matrix%20Cells%20in%20Distance%20Order.ipynb)<br>
+[1037. Valid Boomerang](./leetcode/1037.%20Valid%20Boomerang.ipynb)<br>
