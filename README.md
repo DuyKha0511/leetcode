@@ -80,3 +80,4 @@ References: [Leetcode](https://leetcode.com/)
 [1128. Number of Equivalent Domino Pairs](./leetcode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.ipynb)<br>
 [1160. Find Words That Can Be Formed by Characters](./leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.ipynb)<br>
 [1207. Unique Number of Occurrences](./leetcode/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
+[1232. Check If It Is a Straight Line](./leetcode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
