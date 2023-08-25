@@ -76,3 +76,4 @@ References: [Leetcode](https://leetcode.com/)
 [1047. Remove All Adjacent Duplicates In String](./leetcode/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.ipynb)<br>
 [1071. Greatest Common Divisor of Strings](./leetcode/1071.%20Greatest%20Common%20Divisor%20of%20Strings.ipynb)<br>
 [1078. Occurrences After Bigram](./leetcode/1078.%20Occurrences%20After%20Bigram.ipynb)<br>
+[1089. Duplicate Zeros](./leetcode/1089.%20Duplicate%20Zeros.ipynb)<br>
