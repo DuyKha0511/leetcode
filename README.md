@@ -78,3 +78,4 @@ References: [Leetcode](https://leetcode.com/)
 [1078. Occurrences After Bigram](./leetcode/1078.%20Occurrences%20After%20Bigram.ipynb)<br>
 [1089. Duplicate Zeros](./leetcode/1089.%20Duplicate%20Zeros.ipynb)<br>
 [1128. Number of Equivalent Domino Pairs](./leetcode/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.ipynb)<br>
+[1160. Find Words That Can Be Formed by Characters](./leetcode/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.ipynb)<br>
