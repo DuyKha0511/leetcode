@@ -82,3 +82,4 @@ References: [Leetcode](https://leetcode.com/)
 [1207. Unique Number of Occurrences](./leetcode/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
+[1323. Maximum 69 Number](./leetcode/1323.%20Maximum%2069%20Number.ipynb)<br>
