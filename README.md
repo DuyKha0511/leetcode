@@ -87,3 +87,4 @@ References: [Leetcode](https://leetcode.com/)
 [1408. String Matching in an Array](./leetcode/1408.%20String%20Matching%20in%20an%20Array.ipynb)<br>
 [1417. Reformat The String](./leetcode/1417.%20Reformat%20The%20String.ipynb)<br>
 [1422. Maximum Score After Splitting a String](./leetcode/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.ipynb)<br>
+[2169. Count Operations to Obtain Zero](./leetcode/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
