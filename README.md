@@ -3,6 +3,7 @@ References: [Leetcode](https://leetcode.com/)
 ***_Tabel of Contents_***
 
 [141. Linked List Cycle](./leetcode_/141.%20Linked%20List%20Cycle.ipynb)<br>
+[203. Remove Linked List Elements](./leetcode_/203.%20Remove%20Linked%20List%20Elements.ipynb)<br>
 [463. Island Perimeter](./leetcode_/463.%20Island%20Perimeter.ipynb)<br>
 [476. Number Complement](./leetcode_/476.%20Number%20Complement.ipynb)<br>
 [482. License Key Formatting](./leetcode_/482.%20License%20Key%20Formatting.ipynb)<br>
