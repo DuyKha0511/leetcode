@@ -2,6 +2,7 @@ References: [Leetcode](https://leetcode.com/)
 
 ***_Tabel of Contents_***
 
+[94. Binary Tree Inorder Traversal](./leetcode_/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb)<br>
 [110. Balanced Binary Tree](./leetcode_/110.%20Balanced%20Binary%20Tree.ipynb)<br>
 [141. Linked List Cycle](./leetcode_/141.%20Linked%20List%20Cycle.ipynb)<br>
 [203. Remove Linked List Elements](./leetcode_/203.%20Remove%20Linked%20List%20Elements.ipynb)<br>
