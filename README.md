@@ -7,6 +7,7 @@ References: [Leetcode](https://leetcode.com/)
 [104. Maximum Depth of Binary Tree](./leetcode_/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)<br>
 [110. Balanced Binary Tree](./leetcode_/110.%20Balanced%20Binary%20Tree.ipynb)<br>
 [141. Linked List Cycle](./leetcode_/141.%20Linked%20List%20Cycle.ipynb)<br>
+[144. Binary Tree Preorder Traversal](./leetcode_/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)<br>
 [145. Binary Tree Postorder Traversal](./leetcode_/145.%20Binary%20Tree%20Postorder%20Traversal.ipynb)<br>
 [203. Remove Linked List Elements](./leetcode_/203.%20Remove%20Linked%20List%20Elements.ipynb)<br>
 [206. Reverse Linked List](./leetcode_/206.%20Reverse%20Linked%20List.ipynb)<br>
