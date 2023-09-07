@@ -23,6 +23,7 @@ References: [Leetcode](https://leetcode.com/)
 [495. Teemo Attacking](./leetcode_/495.%20Teemo%20Attacking.ipynb)<br>
 [496. Next Greater Element I](./leetcode_/496.%20Next%20Greater%20Element%20I.ipynb)<br>
 [500. Keyboard Row](./leetcode_/500.%20Keyboard%20Row.ipynb)<br>
+[501. Find Mode in Binary Search Tree](./leetcode_/501.%20Find%20Mode%20in%20Binary%20Search%20Tree.ipynb)<br>
 [504. Base 7](./leetcode_/504.%20Base%207.ipynb)<br>
 [506. Relative Ranks](./leetcode_/506.%20Relative%20Ranks.ipynb)<br>
 [507. Perfect Number](./leetcode_/507.%20Perfect%20Number.ipynb)<br>
