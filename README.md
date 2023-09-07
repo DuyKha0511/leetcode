@@ -29,6 +29,7 @@ References: [Leetcode](https://leetcode.com/)
 [506. Relative Ranks](./leetcode_/506.%20Relative%20Ranks.ipynb)<br>
 [507. Perfect Number](./leetcode_/507.%20Perfect%20Number.ipynb)<br>
 [520. Detect Capital](./leetcode_/520.%20Detect%20Capital.ipynb)<br>
+[530. Minimum Absolute Difference in BST](./leetcode_/530.%20Minimum%20Absolute%20Difference%20in%20BST.ipynb)<br>
 [541. Reverse String II](./leetcode_/541.%20Reverse%20String%20II.ipynb)<br>
 [551. Student Attendance Record I](./leetcode_/551.%20Student%20Attendance%20Record%20I.ipynb)<br>
 [557. Reverse Words in a String III](./leetcode_/557.%20Reverse%20Words%20in%20a%20String%20III.ipynb)<br>
