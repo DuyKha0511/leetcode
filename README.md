@@ -10,6 +10,7 @@ References: [Leetcode](https://leetcode.com/)
 [203. Remove Linked List Elements](./leetcode_/203.%20Remove%20Linked%20List%20Elements.ipynb)<br>
 [206. Reverse Linked List](./leetcode_/206.%20Reverse%20Linked%20List.ipynb)<br>
 [234. Palindrome Linked List](./leetcode_/234.%20Palindrome%20Linked%20List.ipynb)<br>
+[257. Binary Tree Paths](./leetcode_/257.%20Binary%20Tree%20Paths.ipynb)<br>
 [303. Range Sum Query - Immutable](./leetcode_/303.%20Range%20Sum%20Query%20-%20Immutable.ipynb)<br>
 [350. Intersection of Two Arrays II](./leetcode_/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb)<br>
 [404. Sum of Left Leaves](./leetcode_/404.%20Sum%20of%20Left%20Leaves.ipynb)<br>
