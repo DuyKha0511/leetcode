@@ -2,6 +2,7 @@ References: [Leetcode](https://leetcode.com/)
 
 ***_Tabel of Contents_***
 
+[5. Longest Palindromic Substring](./leetcode_/5.%20Longest%20Palindromic%20Substring.ipynb)<br>
 [94. Binary Tree Inorder Traversal](./leetcode_/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb)<br>
 [101. Symmetric Tree](./leetcode_/101.%20Symmetric%20Tree.ipynb)<br>
 [104. Maximum Depth of Binary Tree](./leetcode_/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)<br>
