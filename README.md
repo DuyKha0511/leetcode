@@ -32,6 +32,7 @@ References: [Leetcode](https://leetcode.com/)
 [520. Detect Capital](./leetcode_/520.%20Detect%20Capital.ipynb)<br>
 [530. Minimum Absolute Difference in BST](./leetcode_/530.%20Minimum%20Absolute%20Difference%20in%20BST.ipynb)<br>
 [541. Reverse String II](./leetcode_/541.%20Reverse%20String%20II.ipynb)<br>
+[543. Diameter of Binary Tree](./leetcode_/543.%20Diameter%20of%20Binary%20Tree.ipynb)<br>
 [551. Student Attendance Record I](./leetcode_/551.%20Student%20Attendance%20Record%20I.ipynb)<br>
 [557. Reverse Words in a String III](./leetcode_/557.%20Reverse%20Words%20in%20a%20String%20III.ipynb)<br>
 [561. Array Partition](./leetcode_/561.%20Array%20Partition.ipynb)<br>
