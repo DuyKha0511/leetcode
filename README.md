@@ -46,6 +46,7 @@ References: [Leetcode](https://leetcode.com/)
 [598. Range Addition II](./leetcode_/598.%20Range%20Addition%20II.ipynb)<br>
 [599. Minimum Index Sum of Two Lists](./leetcode_/599.%20Minimum%20Index%20Sum%20of%20Two%20Lists.ipynb)<br>
 [605. Can Place Flowers](./leetcode_/605.%20Can%20Place%20Flowers.ipynb)<br>
+[606. Construct String from Binary Tree](./leetcode_/606.%20Construct%20String%20from%20Binary%20Tree.ipynb)<br>
 [628. Maximum Product of Three Numbers](./leetcode_/628.%20Maximum%20Product%20of%20Three%20Numbers.ipynb)<br>
 [643. Maximum Average Subarray I](./leetcode_/643.%20Maximum%20Average%20Subarray%20I.ipynb)<br>
 [645. Set Mismatch](./leetcode_/645.%20Set%20Mismatch.ipynb)<br>
