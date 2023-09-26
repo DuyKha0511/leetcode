@@ -55,6 +55,7 @@ References: [Leetcode](https://leetcode.com/)
 [637. Average of Levels in Binary Tree](./leetcode_/637.%20Average%20of%20Levels%20in%20Binary%20Tree.ipynb)<br>
 [643. Maximum Average Subarray I](./leetcode_/643.%20Maximum%20Average%20Subarray%20I.ipynb)<br>
 [645. Set Mismatch](./leetcode_/645.%20Set%20Mismatch.ipynb)<br>
+[647. Palindromic Substrings](./leetcode_/647.%20Palindromic%20Substrings.ipynb)<br>
 [657. Robot Return to Origin](./leetcode_/657.%20Robot%20Return%20to%20Origin.ipynb)<br>
 [661. Image Smoother](./leetcode_/661.%20Image%20Smoother.ipynb)<br>
 [674. Longest Continuous Increasing Subsequence](./leetcode_/674.%20Longest%20Continuous%20Increasing%20Subsequence.ipynb)<br>
