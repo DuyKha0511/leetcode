@@ -98,6 +98,7 @@ References: [Leetcode](https://leetcode.com/)
 [961. N-Repeated Element in Size 2N Array](./leetcode_/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.ipynb)<br>
 [976. Largest Perimeter Triangle](./leetcode_/976.%20Largest%20Perimeter%20Triangle.ipynb)<br>
 [997. Find the Town Judge](./leetcode_/997.%20Find%20the%20Town%20Judge.ipynb)<br>
+[999. Available Captures for Rook](./leetcode_/999.%20Available%20Captures%20for%20Rook.ipynb)<br>
 [1002. Find Common Characters](./leetcode_/1002.%20Find%20Common%20Characters.ipynb)<br>
 [1005. Maximize Sum Of Array After K Negations](./leetcode_/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.ipynb)<br>
 [1009. Complement of Base 10 Integer](./leetcode_/1009.%20Complement%20of%20Base%2010%20Integer.ipynb)<br>
