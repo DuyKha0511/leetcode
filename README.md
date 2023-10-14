@@ -87,6 +87,7 @@ References: [Leetcode](https://leetcode.com/)
 [819. Most Common Word](./leetcode_/819.%20Most%20Common%20Word.ipynb)<br>
 [844. Backspace String Compare](./leetcode_/844.%20Backspace%20String%20Compare.ipynb)<br>
 [859. Buddy Strings](./leetcode_/859.%20Buddy%20Strings.ipynb)<br>
+[860. Lemonade Change](./leetcode_/860.%20Lemonade%20Change.ipynb)<br>
 [868. Binary Gap](./leetcode_/868.%20Binary%20Gap.ipynb)<br>
 [884. Uncommon Words from Two Sentences](./leetcode_/884.%20Uncommon%20Words%20from%20Two%20Sentences.ipynb)<br>
 [896. Monotonic Array](./leetcode_/896.%20Monotonic%20Array.ipynb)<br>
