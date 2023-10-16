@@ -10,7 +10,9 @@ References: [Leetcode](https://leetcode.com/)
 [18. 4Sum](./leetcode_/18.%204Sum.ipynb)<br>
 [19. Remove Nth Node From End of List](./leetcode_/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb)<br>
 [22. Generate Parentheses](./leetcode_/22.%20Generate%20Parentheses.ipynb)<br>
+[24. Swap Nodes in Pairs](./leetcode_/24.%20Swap%20Nodes%20in%20Pairs.ipynb)<br>
 [29. Divide Two Integers](./leetcode_/29.%20Divide%20Two%20Integers.ipynb)<br>
+[33. Search in Rotated Sorted Array](./leetcode_/33.%20Search%20in%20Rotated%20Sorted%20Array.ipynb)<br>
 [34. Find First and Last Position of Element in Sorted Array](./leetcode_/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.ipynb)<br>
 [94. Binary Tree Inorder Traversal](./leetcode_/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb)<br>
 [101. Symmetric Tree](./leetcode_/101.%20Symmetric%20Tree.ipynb)<br>
