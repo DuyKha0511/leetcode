@@ -118,6 +118,7 @@ References: [Leetcode](https://leetcode.com/)
 [1037. Valid Boomerang](./leetcode_/1037.%20Valid%20Boomerang.ipynb)<br>
 [1046. Last Stone Weight](./leetcode_/1046.%20Last%20Stone%20Weight.ipynb)<br>
 [1047. Remove All Adjacent Duplicates In String](./leetcode_/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.ipynb)<br>
+[1051. Height Checker](./leetcode_/1051.%20Height%20Checker.ipynb)<br>
 [1071. Greatest Common Divisor of Strings](./leetcode_/1071.%20Greatest%20Common%20Divisor%20of%20Strings.ipynb)<br>
 [1078. Occurrences After Bigram](./leetcode_/1078.%20Occurrences%20After%20Bigram.ipynb)<br>
 [1089. Duplicate Zeros](./leetcode_/1089.%20Duplicate%20Zeros.ipynb)<br>
