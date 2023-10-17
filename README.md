@@ -49,6 +49,7 @@ References: [Leetcode](https://leetcode.com/)
 [543. Diameter of Binary Tree](./leetcode_/543.%20Diameter%20of%20Binary%20Tree.ipynb)<br>
 [551. Student Attendance Record I](./leetcode_/551.%20Student%20Attendance%20Record%20I.ipynb)<br>
 [557. Reverse Words in a String III](./leetcode_/557.%20Reverse%20Words%20in%20a%20String%20III.ipynb)<br>
+[559. Maximum Depth of N-ary Tree](./leetcode_/559.%20Maximum%20Depth%20of%20N-ary%20Tree.ipynb)<br>
 [561. Array Partition](./leetcode_/561.%20Array%20Partition.ipynb)<br>
 [563. Binary Tree Tilt](./leetcode_/563.%20Binary%20Tree%20Tilt.ipynb)<br>
 [566. Reshape the Matrix](./leetcode_/566.%20Reshape%20the%20Matrix.ipynb)<br>
