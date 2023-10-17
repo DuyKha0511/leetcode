@@ -105,6 +105,7 @@ References: [Leetcode](https://leetcode.com/)
 [953. Verifying an Alien Dictionary](./leetcode_/953.%20Verifying%20an%20Alien%20Dictionary.ipynb)<br>
 [961. N-Repeated Element in Size 2N Array](./leetcode_/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.ipynb)<br>
 [976. Largest Perimeter Triangle](./leetcode_/976.%20Largest%20Perimeter%20Triangle.ipynb)<br>
+[993. Cousins in Binary Tree](./leetcode_/993.%20Cousins%20in%20Binary%20Tree.ipynb)<br>
 [997. Find the Town Judge](./leetcode_/997.%20Find%20the%20Town%20Judge.ipynb)<br>
 [999. Available Captures for Rook](./leetcode_/999.%20Available%20Captures%20for%20Rook.ipynb)<br>
 [1002. Find Common Characters](./leetcode_/1002.%20Find%20Common%20Characters.ipynb)<br>
