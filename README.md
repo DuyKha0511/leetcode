@@ -86,6 +86,7 @@ References: [Leetcode](https://leetcode.com/)
 [762. Prime Number of Set Bits in Binary Representation](./leetcode_/762.%20Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.ipynb)<br>
 [766. Toeplitz Matrix](./leetcode_/766.%20Toeplitz%20Matrix.ipynb)<br>
 [771. Jewels and Stones](./leetcode_/771.%20Jewels%20and%20Stones.ipynb)<br>
+[783. Minimum Distance Between BST Nodes](./leetcode_/783.%20Minimum%20Distance%20Between%20BST%20Nodes.ipynb)<br>
 [796. Rotate String](./leetcode_/796.%20Rotate%20String.ipynb)<br>
 [804. Unique Morse Code Words](./leetcode_/804.%20Unique%20Morse%20Code%20Words.ipynb)<br>
 [806. Number of Lines To Write String](./leetcode_/806.%20Number%20of%20Lines%20To%20Write%20String.ipynb)<br>
