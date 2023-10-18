@@ -56,6 +56,7 @@ References: [Leetcode](https://leetcode.com/)
 [566. Reshape the Matrix](./leetcode_/566.%20Reshape%20the%20Matrix.ipynb)<br>
 [572. Subtree of Another Tree](./leetcode_/572.%20Subtree%20of%20Another%20Tree.ipynb)<br>
 [575. Distribute Candies](./leetcode_/575.%20Distribute%20Candies.ipynb)<br>
+[589. N-ary Tree Preorder Traversal](./leetcode_/589.%20N-ary%20Tree%20Preorder%20Traversal.ipynb)<br>
 [590. N-ary Tree Postorder Traversal](./leetcode_/590.%20N-ary%20Tree%20Postorder%20Traversal.ipynb)<br>
 [594. Longest Harmonious Subsequence](./leetcode_/594.%20Longest%20Harmonious%20Subsequence.ipynb)<br>
 [598. Range Addition II](./leetcode_/598.%20Range%20Addition%20II.ipynb)<br>
