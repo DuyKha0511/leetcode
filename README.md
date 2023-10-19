@@ -71,6 +71,7 @@ References: [Leetcode](https://leetcode.com/)
 [647. Palindromic Substrings](./leetcode_/647.%20Palindromic%20Substrings.ipynb)<br>
 [657. Robot Return to Origin](./leetcode_/657.%20Robot%20Return%20to%20Origin.ipynb)<br>
 [661. Image Smoother](./leetcode_/661.%20Image%20Smoother.ipynb)<br>
+[671. Second Minimum Node In a Binary Tree](./leetcode_/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.ipynb)<br>
 [674. Longest Continuous Increasing Subsequence](./leetcode_/674.%20Longest%20Continuous%20Increasing%20Subsequence.ipynb)<br>
 [680. Valid Palindrome II](./leetcode_/680.%20Valid%20Palindrome%20II.ipynb)<br>
 [682. Baseball Game](./leetcode_/682.%20Baseball%20Game.ipynb)<br>
