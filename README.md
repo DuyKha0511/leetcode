@@ -114,6 +114,7 @@ References: [Leetcode](https://leetcode.com/)
 [944. Delete Columns to Make Sorted](./leetcode_/944.%20Delete%20Columns%20to%20Make%20Sorted.ipynb)<br>
 [953. Verifying an Alien Dictionary](./leetcode_/953.%20Verifying%20an%20Alien%20Dictionary.ipynb)<br>
 [961. N-Repeated Element in Size 2N Array](./leetcode_/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.ipynb)<br>
+[965. Univalued Binary Tree](./leetcode_/965.%20Univalued%20Binary%20Tree.ipynb)<br>
 [976. Largest Perimeter Triangle](./leetcode_/976.%20Largest%20Perimeter%20Triangle.ipynb)<br>
 [993. Cousins in Binary Tree](./leetcode_/993.%20Cousins%20in%20Binary%20Tree.ipynb)<br>
 [997. Find the Town Judge](./leetcode_/997.%20Find%20the%20Town%20Judge.ipynb)<br>
