@@ -105,6 +105,7 @@ References: [Leetcode](https://leetcode.com/)
 [844. Backspace String Compare](./leetcode_/844.%20Backspace%20String%20Compare.ipynb)<br>
 [859. Buddy Strings](./leetcode_/859.%20Buddy%20Strings.ipynb)<br>
 [860. Lemonade Change](./leetcode_/860.%20Lemonade%20Change.ipynb)<br>
+[867. Transpose Matrix](./leetcode_/867.%20Transpose%20Matrix.ipynb)<br>
 [868. Binary Gap](./leetcode_/868.%20Binary%20Gap.ipynb)<br>
 [872. Leaf-Similar Trees](./leetcode_/872.%20Leaf-Similar%20Trees.ipynb)<br>
 [876. Middle of the Linked List](./leetcode_/876.%20Middle%20of%20the%20Linked%20List.ipynb)<br>
