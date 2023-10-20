@@ -106,6 +106,7 @@ References: [Leetcode](https://leetcode.com/)
 [859. Buddy Strings](./leetcode_/859.%20Buddy%20Strings.ipynb)<br>
 [860. Lemonade Change](./leetcode_/860.%20Lemonade%20Change.ipynb)<br>
 [868. Binary Gap](./leetcode_/868.%20Binary%20Gap.ipynb)<br>
+[872. Leaf-Similar Trees](./leetcode_/872.%20Leaf-Similar%20Trees.ipynb)<br>
 [884. Uncommon Words from Two Sentences](./leetcode_/884.%20Uncommon%20Words%20from%20Two%20Sentences.ipynb)<br>
 [896. Monotonic Array](./leetcode_/896.%20Monotonic%20Array.ipynb)<br>
 [908. Smallest Range I](./leetcode_/908.%20Smallest%20Range%20I.ipynb)<br>
