@@ -82,6 +82,7 @@ References: [Leetcode](https://leetcode.com/)
 [700. Search in a Binary Search Tree](./leetcode_/700.%20Search%20in%20a%20Binary%20Search%20Tree.ipynb)<br>
 [703. Kth Largest Element in a Stream](./leetcode_/703.%20Kth%20Largest%20Element%20in%20a%20Stream.ipynb)<br>
 [704. Binary Search](./leetcode_/704.%20Binary%20Search.ipynb)<br>
+[706. Design HashMap](./leetcode_/706.%20Design%20HashMap.ipynb)<br>
 [717. 1-bit and 2-bit Characters](./leetcode_/717.%201-bit%20and%202-bit%20Characters.ipynb)<br>
 [724. Find Pivot Index](./leetcode_/724.%20Find%20Pivot%20Index.ipynb)<br>
 [728. Self Dividing Numbers](./leetcode_/728.%20Self%20Dividing%20Numbers.ipynb)<br>
