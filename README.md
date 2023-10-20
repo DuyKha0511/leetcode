@@ -101,6 +101,7 @@ References: [Leetcode](https://leetcode.com/)
 [812. Largest Triangle Area](./leetcode_/812.%20Largest%20Triangle%20Area.ipynb)<br>
 [819. Most Common Word](./leetcode_/819.%20Most%20Common%20Word.ipynb)<br>
 [821. Shortest Distance to a Character](./leetcode_/821.%20Shortest%20Distance%20to%20a%20Character.ipynb)<br>
+[824. Goat Latin](./leetcode_/824.%20Goat%20Latin.ipynb)<br>
 [844. Backspace String Compare](./leetcode_/844.%20Backspace%20String%20Compare.ipynb)<br>
 [859. Buddy Strings](./leetcode_/859.%20Buddy%20Strings.ipynb)<br>
 [860. Lemonade Change](./leetcode_/860.%20Lemonade%20Change.ipynb)<br>
