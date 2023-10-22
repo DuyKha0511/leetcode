@@ -147,6 +147,7 @@ References: [Leetcode](https://leetcode.com/)
 [1207. Unique Number of Occurrences](./leetcode_/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode_/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
+[1313. Decompress Run-Length Encoded List](./leetcode_/1313.%20Decompress%20Run-Length%20Encoded%20List.ipynb)<br>
 [1323. Maximum 69 Number](./leetcode_/1323.%20Maximum%2069%20Number.ipynb)<br>
 [1331. Rank Transform of an Array](./leetcode_/1331.%20Rank%20Transform%20of%20an%20Array.ipynb)<br>
 [1408. String Matching in an Array](./leetcode_/1408.%20String%20Matching%20in%20an%20Array.ipynb)<br>
