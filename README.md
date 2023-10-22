@@ -142,6 +142,7 @@ References: [Leetcode](https://leetcode.com/)
 [1078. Occurrences After Bigram](./leetcode_/1078.%20Occurrences%20After%20Bigram.ipynb)<br>
 [1089. Duplicate Zeros](./leetcode_/1089.%20Duplicate%20Zeros.ipynb)<br>
 [1128. Number of Equivalent Domino Pairs](./leetcode_/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.ipynb)<br>
+[1154. Day of the Year](./leetcode_/1154.%20Day%20of%20the%20Year.ipynb)<br>
 [1160. Find Words That Can Be Formed by Characters](./leetcode_/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.ipynb)<br>
 [1207. Unique Number of Occurrences](./leetcode_/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode_/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
