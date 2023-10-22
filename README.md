@@ -25,6 +25,7 @@ References: [Leetcode](https://leetcode.com/)
 [145. Binary Tree Postorder Traversal](./leetcode_/145.%20Binary%20Tree%20Postorder%20Traversal.ipynb)<br>
 [203. Remove Linked List Elements](./leetcode_/203.%20Remove%20Linked%20List%20Elements.ipynb)<br>
 [206. Reverse Linked List](./leetcode_/206.%20Reverse%20Linked%20List.ipynb)<br>
+[222. Count Complete Tree Nodes](./leetcode_/222.%20Count%20Complete%20Tree%20Nodes.ipynb)<br>
 [226. Invert Binary Tree](./leetcode_/226.%20Invert%20Binary%20Tree.ipynb)<br>
 [234. Palindrome Linked List](./leetcode_/234.%20Palindrome%20Linked%20List.ipynb)<br>
 [257. Binary Tree Paths](./leetcode_/257.%20Binary%20Tree%20Paths.ipynb)<br>
