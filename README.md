@@ -148,6 +148,7 @@ References: [Leetcode](https://leetcode.com/)
 [1128. Number of Equivalent Domino Pairs](./leetcode_/1128.%20Number%20of%20Equivalent%20Domino%20Pairs.ipynb)<br>
 [1154. Day of the Year](./leetcode_/1154.%20Day%20of%20the%20Year.ipynb)<br>
 [1160. Find Words That Can Be Formed by Characters](./leetcode_/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.ipynb)<br>
+[1175. Prime Arrangements](./leetcode_/1175.%20Prime%20Arrangements.ipynb)<br>
 [1207. Unique Number of Occurrences](./leetcode_/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode_/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
