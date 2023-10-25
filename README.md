@@ -110,6 +110,7 @@ References: [Leetcode](https://leetcode.com/)
 [868. Binary Gap](./leetcode_/868.%20Binary%20Gap.ipynb)<br>
 [872. Leaf-Similar Trees](./leetcode_/872.%20Leaf-Similar%20Trees.ipynb)<br>
 [876. Middle of the Linked List](./leetcode_/876.%20Middle%20of%20the%20Linked%20List.ipynb)<br>
+[883. Projection Area of 3D Shapes](./leetcode_/883.%20Projection%20Area%20of%203D%20Shapes.ipynb)<br>
 [884. Uncommon Words from Two Sentences](./leetcode_/884.%20Uncommon%20Words%20from%20Two%20Sentences.ipynb)<br>
 [888. Fair Candy Swap](./leetcode_/888.%20Fair%20Candy%20Swap.ipynb)<br>
 [896. Monotonic Array](./leetcode_/896.%20Monotonic%20Array.ipynb)<br>
