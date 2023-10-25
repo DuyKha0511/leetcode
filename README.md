@@ -158,6 +158,7 @@ References: [Leetcode](https://leetcode.com/)
 [1417. Reformat The String](./leetcode_/1417.%20Reformat%20The%20String.ipynb)<br>
 [1422. Maximum Score After Splitting a String](./leetcode_/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.ipynb)<br>
 [1619. Mean of Array After Removing Some Elements](./leetcode_/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.ipynb)<br>
+[1935. Maximum Number of Words You Can Type](./leetcode_/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.ipynb)<br>
 [2169. Count Operations to Obtain Zero](./leetcode_/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
 [2239. Find Closest Number to Zero](./leetcode_/2239.%20Find%20Closest%20Number%20to%20Zero.ipynb)<br>
 [2644. Find the Maximum Divisibility Score](./leetcode_/2644.%20Find%20the%20Maximum%20Divisibility%20Score.ipynb)<br>
