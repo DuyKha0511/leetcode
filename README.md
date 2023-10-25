@@ -153,6 +153,7 @@ References: [Leetcode](https://leetcode.com/)
 [1313. Decompress Run-Length Encoded List](./leetcode_/1313.%20Decompress%20Run-Length%20Encoded%20List.ipynb)<br>
 [1323. Maximum 69 Number](./leetcode_/1323.%20Maximum%2069%20Number.ipynb)<br>
 [1331. Rank Transform of an Array](./leetcode_/1331.%20Rank%20Transform%20of%20an%20Array.ipynb)<br>
+[1360. Number of Days Between Two Dates](./leetcode_/1360.%20Number%20of%20Days%20Between%20Two%20Dates.ipynb)<br>
 [1385. Find the Distance Value Between Two Arrays](./leetcode_/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.ipynb)<br>
 [1408. String Matching in an Array](./leetcode_/1408.%20String%20Matching%20in%20an%20Array.ipynb)<br>
 [1417. Reformat The String](./leetcode_/1417.%20Reformat%20The%20String.ipynb)<br>
