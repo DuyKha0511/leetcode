@@ -117,6 +117,7 @@ References: [Leetcode](https://leetcode.com/)
 [897. Increasing Order Search Tree](./leetcode_/897.%20Increasing%20Order%20Search%20Tree.ipynb)<br>
 [905. Sort Array By Parity](./leetcode_/905.%20Sort%20Array%20By%20Parity.ipynb)<br>
 [908. Smallest Range I](./leetcode_/908.%20Smallest%20Range%20I.ipynb)<br>
+[914. X of a Kind in a Deck of Cards](./leetcode_/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.ipynb)<br>
 [917. Reverse Only Letters](./leetcode_/917.%20Reverse%20Only%20Letters.ipynb)<br>
 [922. Sort Array By Parity II](./leetcode_/922.%20Sort%20Array%20By%20Parity%20II.ipynb)<br>
 [925. Long Pressed Name](./leetcode_/925.%20Long%20Pressed%20Name.ipynb)<br>
