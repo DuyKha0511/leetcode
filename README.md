@@ -120,6 +120,7 @@ References: [Leetcode](https://leetcode.com/)
 [917. Reverse Only Letters](./leetcode_/917.%20Reverse%20Only%20Letters.ipynb)<br>
 [922. Sort Array By Parity II](./leetcode_/922.%20Sort%20Array%20By%20Parity%20II.ipynb)<br>
 [925. Long Pressed Name](./leetcode_/925.%20Long%20Pressed%20Name.ipynb)<br>
+[929. Unique Email Addresses](./leetcode_/929.%20Unique%20Email%20Addresses.ipynb)<br>
 [933. Number of Recent Calls](./leetcode_/933.%20Number%20of%20Recent%20Calls.ipynb)<br>
 [938. Range Sum of BST](./leetcode_/938.%20Range%20Sum%20of%20BST.ipynb)<br>
 [941. Valid Mountain Array](./leetcode_/941.%20Valid%20Mountain%20Array.ipynb)<br>
