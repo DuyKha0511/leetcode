@@ -115,6 +115,7 @@ References: [Leetcode](https://leetcode.com/)
 [888. Fair Candy Swap](./leetcode_/888.%20Fair%20Candy%20Swap.ipynb)<br>
 [896. Monotonic Array](./leetcode_/896.%20Monotonic%20Array.ipynb)<br>
 [897. Increasing Order Search Tree](./leetcode_/897.%20Increasing%20Order%20Search%20Tree.ipynb)<br>
+[905. Sort Array By Parity](./leetcode_/905.%20Sort%20Array%20By%20Parity.ipynb)<br>
 [908. Smallest Range I](./leetcode_/908.%20Smallest%20Range%20I.ipynb)<br>
 [917. Reverse Only Letters](./leetcode_/917.%20Reverse%20Only%20Letters.ipynb)<br>
 [922. Sort Array By Parity II](./leetcode_/922.%20Sort%20Array%20By%20Parity%20II.ipynb)<br>
