@@ -155,6 +155,7 @@ References: [Leetcode](https://leetcode.com/)
 [1175. Prime Arrangements](./leetcode_/1175.%20Prime%20Arrangements.ipynb)<br>
 [1184. Distance Between Bus Stops](./leetcode_/1184.%20Distance%20Between%20Bus%20Stops.ipynb)<br>
 [1185. Day of the Week](./leetcode_/1185.%20Day%20of%20the%20Week.ipynb)<br>
+[1189. Maximum Number of Balloons](./leetcode_/1189.%20Maximum%20Number%20of%20Balloons.ipynb)<br>
 [1207. Unique Number of Occurrences](./leetcode_/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode_/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
