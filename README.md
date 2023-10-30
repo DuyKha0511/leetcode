@@ -168,6 +168,7 @@ References: [Leetcode](https://leetcode.com/)
 [1507. Reformat Date](./leetcode_/1507.%20Reformat%20Date.ipynb)<br>
 [1619. Mean of Array After Removing Some Elements](./leetcode_/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.ipynb)<br>
 [1935. Maximum Number of Words You Can Type](./leetcode_/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.ipynb)<br>
+[1957. Delete Characters to Make Fancy String](./leetcode_/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.ipynb)<br>
 [2169. Count Operations to Obtain Zero](./leetcode_/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
 [2239. Find Closest Number to Zero](./leetcode_/2239.%20Find%20Closest%20Number%20to%20Zero.ipynb)<br>
 [2644. Find the Maximum Divisibility Score](./leetcode_/2644.%20Find%20the%20Maximum%20Divisibility%20Score.ipynb)<br>
