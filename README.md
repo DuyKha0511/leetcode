@@ -169,6 +169,7 @@ References: [Leetcode](https://leetcode.com/)
 [1417. Reformat The String](./leetcode_/1417.%20Reformat%20The%20String.ipynb)<br>
 [1422. Maximum Score After Splitting a String](./leetcode_/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.ipynb)<br>
 [1507. Reformat Date](./leetcode_/1507.%20Reformat%20Date.ipynb)<br>
+[1550. Three Consecutive Odds](./leetcode_/1550.%20Three%20Consecutive%20Odds.ipynb)<br>
 [1619. Mean of Array After Removing Some Elements](./leetcode_/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.ipynb)<br>
 [1935. Maximum Number of Words You Can Type](./leetcode_/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.ipynb)<br>
 [1957. Delete Characters to Make Fancy String](./leetcode_/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.ipynb)<br>
