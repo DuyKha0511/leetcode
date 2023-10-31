@@ -157,6 +157,7 @@ References: [Leetcode](https://leetcode.com/)
 [1185. Day of the Week](./leetcode_/1185.%20Day%20of%20the%20Week.ipynb)<br>
 [1189. Maximum Number of Balloons](./leetcode_/1189.%20Maximum%20Number%20of%20Balloons.ipynb)<br>
 [1207. Unique Number of Occurrences](./leetcode_/1207.%20Unique%20Number%20of%20Occurrences.ipynb)<br>
+[1217. Minimum Cost to Move Chips to The Same Position](./leetcode_/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.ipynb)<br>
 [1232. Check If It Is a Straight Line](./leetcode_/1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
 [1313. Decompress Run-Length Encoded List](./leetcode_/1313.%20Decompress%20Run-Length%20Encoded%20List.ipynb)<br>
