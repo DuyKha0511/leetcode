@@ -179,6 +179,7 @@ References: [Leetcode](https://leetcode.com/)
 [2169. Count Operations to Obtain Zero](./leetcode_/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
 [2239. Find Closest Number to Zero](./leetcode_/2239.%20Find%20Closest%20Number%20to%20Zero.ipynb)<br>
 [2273. Find Resultant Array After Removing Anagrams](./leetcode_/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.ipynb)<br>
+[2303. Calculate Amount Paid in Taxes](./leetcode_/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.ipynb)<br>
 [2309. Greatest English Letter in Upper and Lower Case](./leetcode_/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.ipynb)<br>
 [2644. Find the Maximum Divisibility Score](./leetcode_/2644.%20Find%20the%20Maximum%20Divisibility%20Score.ipynb)<br>
 [2656. Maximum Sum With Exactly K Elements](./leetcode_/2656.%20Maximum%20Sum%20With%20Exactly%20K%20Elements.ipynb)<br>
