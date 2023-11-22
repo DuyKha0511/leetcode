@@ -177,6 +177,7 @@ References: [Leetcode](https://leetcode.com/)
 [1935. Maximum Number of Words You Can Type](./leetcode_/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type.ipynb)<br>
 [1957. Delete Characters to Make Fancy String](./leetcode_/1957.%20Delete%20Characters%20to%20Make%20Fancy%20String.ipynb)<br>
 [2169. Count Operations to Obtain Zero](./leetcode_/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
+[2215. Find the Difference of Two Arrays](./leetcode_/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.ipynb)<br>
 [2239. Find Closest Number to Zero](./leetcode_/2239.%20Find%20Closest%20Number%20to%20Zero.ipynb)<br>
 [2273. Find Resultant Array After Removing Anagrams](./leetcode_/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.ipynb)<br>
 [2303. Calculate Amount Paid in Taxes](./leetcode_/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.ipynb)<br>
