@@ -166,6 +166,7 @@ References: [Leetcode](https://leetcode.com/)
 [1266. Minimum Time Visiting All Points](./leetcode_/1266.%20Minimum%20Time%20Visiting%20All%20Points.ipynb)<br>
 [1275. Find Winner on a Tic Tac Toe Game](./leetcode_/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.ipynb)<br>
 [1281. Subtract the Product and Sum of Digits of an Integer](./leetcode_/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.ipynb)<br>
+[1290. Convert Binary Number in a Linked List to Integer](./leetcode_/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
 [1313. Decompress Run-Length Encoded List](./leetcode_/1313.%20Decompress%20Run-Length%20Encoded%20List.ipynb)<br>
 [1323. Maximum 69 Number](./leetcode_/1323.%20Maximum%2069%20Number.ipynb)<br>
