@@ -168,6 +168,7 @@ References: [Leetcode](https://leetcode.com/)
 [1281. Subtract the Product and Sum of Digits of an Integer](./leetcode_/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.ipynb)<br>
 [1290. Convert Binary Number in a Linked List to Integer](./leetcode_/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
+[1309. Decrypt String from Alphabet to Integer Mapping](./leetcode_/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.ipynb)<br>
 [1313. Decompress Run-Length Encoded List](./leetcode_/1313.%20Decompress%20Run-Length%20Encoded%20List.ipynb)<br>
 [1317. Convert Integer to the Sum of Two No-Zero Integers](./leetcode_/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.ipynb)<br>
 [1323. Maximum 69 Number](./leetcode_/1323.%20Maximum%2069%20Number.ipynb)<br>
