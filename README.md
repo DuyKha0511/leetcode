@@ -188,6 +188,7 @@ References: [Leetcode](https://leetcode.com/)
 [2169. Count Operations to Obtain Zero](./leetcode_/2169.%20Count%20Operations%20to%20Obtain%20Zero.ipynb)<br>
 [2215. Find the Difference of Two Arrays](./leetcode_/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.ipynb)<br>
 [2239. Find Closest Number to Zero](./leetcode_/2239.%20Find%20Closest%20Number%20to%20Zero.ipynb)<br>
+[2269. Find the K-Beauty of a Number](./leetcode_/2269.%20Find%20the%20K-Beauty%20of%20a%20Number.ipynb)<br>
 [2273. Find Resultant Array After Removing Anagrams](./leetcode_/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.ipynb)<br>
 [2303. Calculate Amount Paid in Taxes](./leetcode_/2303.%20Calculate%20Amount%20Paid%20in%20Taxes.ipynb)<br>
 [2309. Greatest English Letter in Upper and Lower Case](./leetcode_/2309.%20Greatest%20English%20Letter%20in%20Upper%20and%20Lower%20Case.ipynb)<br>
