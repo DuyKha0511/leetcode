@@ -167,6 +167,7 @@ References: [Leetcode](https://leetcode.com/)
 [1275. Find Winner on a Tic Tac Toe Game](./leetcode_/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.ipynb)<br>
 [1281. Subtract the Product and Sum of Digits of an Integer](./leetcode_/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.ipynb)<br>
 [1290. Convert Binary Number in a Linked List to Integer](./leetcode_/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.ipynb)<br>
+[1295. Find Numbers with Even Number of Digits](./leetcode_/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.ipynb)<br>
 [1299. Replace Elements with Greatest Element on Right Side](./leetcode_/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.ipynb)<br>
 [1304. Find N Unique Integers Sum up to Zero](./leetcode_/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.ipynb)<br>
 [1309. Decrypt String from Alphabet to Integer Mapping](./leetcode_/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.ipynb)<br>
