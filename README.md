@@ -177,6 +177,7 @@ References: [Leetcode](https://leetcode.com/)
 [1317. Convert Integer to the Sum of Two No-Zero Integers](./leetcode_/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.ipynb)<br>
 [1323. Maximum 69 Number](./leetcode_/1323.%20Maximum%2069%20Number.ipynb)<br>
 [1331. Rank Transform of an Array](./leetcode_/1331.%20Rank%20Transform%20of%20an%20Array.ipynb)<br>
+[1342. Number of Steps to Reduce a Number to Zero](./leetcode_/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.ipynb)<br>
 [1360. Number of Days Between Two Dates](./leetcode_/1360.%20Number%20of%20Days%20Between%20Two%20Dates.ipynb)<br>
 [1385. Find the Distance Value Between Two Arrays](./leetcode_/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.ipynb)<br>
 [1408. String Matching in an Array](./leetcode_/1408.%20String%20Matching%20in%20an%20Array.ipynb)<br>
