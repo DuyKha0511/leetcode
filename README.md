@@ -20,6 +20,7 @@ References: [Leetcode](https://leetcode.com/)
 [45. Jump Game II](./leetcode_/45.%20Jump%20Game%20II.ipynb)<br>
 [46. Permutations](./leetcode_/46.%20Permutations.ipynb)<br>
 [47. Permutations II](./leetcode_/47.%20Permutations%20II.ipynb)<br>
+[50. Pow(x, n)](./leetcode_/50.%20Pow(x,%20n).ipynb)<br>
 [94. Binary Tree Inorder Traversal](./leetcode_/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb)<br>
 [101. Symmetric Tree](./leetcode_/101.%20Symmetric%20Tree.ipynb)<br>
 [104. Maximum Depth of Binary Tree](./leetcode_/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)<br>
